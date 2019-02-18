@@ -1,4 +1,7 @@
 # cdthomework3
+Created a Windows Service with the intent to add screen manipulation functionality. Code as of know only creates a service
+that is able to be started and stopped. Service also recalls every 5 seconds and keep a log of all starts, stops, and recalls
+in a log file located in the \bin\Debug folder.
 
 # Installing
 1. Open an Administrator Command Line
